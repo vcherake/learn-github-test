@@ -1,0 +1,14 @@
+{
+  "name": "circleci-test-github-action",
+  "version": "1.0.0",
+  "description": "for learning testing",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
